@@ -1,2 +1,2 @@
 # Hillel-python lessons:
-# 1. 
+1. 
