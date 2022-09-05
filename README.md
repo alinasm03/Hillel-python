@@ -1,1 +1,2 @@
-# Hillel-python
+# Hillel-python lessons:
+# 1. 
