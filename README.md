@@ -4,4 +4,5 @@ Hillel-python lessons:
 2. hw2_Conditional expressions.py
 ДЗ 2. Умовні вирази. Вправа №1
 3. hw3_Conditional expressions_2.py
+ДЗ 3. Умовні вирази. Вправа №2
 Напишіть програму, яка буде симулювати примітивне бото-спілкування.
