@@ -4,7 +4,7 @@ def field_input(name):
         marker_x = False
         for i in x:
             try:
-                t = int(i)
+                k = int(i)
                 marker_x = True
                 break
             except Exception:

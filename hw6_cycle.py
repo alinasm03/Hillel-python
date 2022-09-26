@@ -17,5 +17,5 @@ def input_function():
                 return sum1
 
 
-n = input_function()
-print(n)
+num = input_function()
+print(num)
