@@ -16,3 +16,5 @@ Hillel-python lessons:
  ДЗ 6. Сума введених чисел
 7. hw7_list_cycle.py --
  ДЗ 7. Ведення нотаток
+8. hw8_write in file.py --
+ ДЗ 8. Запис нотаток у файл
