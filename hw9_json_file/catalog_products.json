@@ -1,0 +1,52 @@
+[
+	{
+		"name": "mango",
+		"category": "fruits",
+		"price": "100"
+	},
+	{
+		"name": "banana",
+		"category": "fruits",
+		"price": "70"
+	},
+	{
+		"name": "cucumber",
+		"category": "vegetables",
+		"price": "80"
+	},
+	{
+		"name": "potato",
+		"category": "vegetables",
+		"price": "30"
+	},
+	{
+		"name": "tuna",
+		"category": "fish",
+		"price": "120"
+	},
+	{
+		"name": "salmon",
+		"category": "fish",
+		"price": "180"
+	},
+	{
+		"name": "carrot",
+		"category": "vegetables",
+		"price": "25"
+	},
+	{
+		"name": "rice",
+		"category": "cereals",
+		"price": "88"
+	},
+	{
+		"name": "buckwheat",
+		"category": "cereals",
+		"price": "102"
+	},
+	{
+		"name": "wheat porridge",
+		"category": "cereals",
+		"price": "55"
+	}
+]

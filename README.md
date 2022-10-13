@@ -18,3 +18,5 @@ Hillel-python lessons:
  ДЗ 7. Ведення нотаток
 8. hw8_write in file.py --
  ДЗ 8. Запис нотаток у файл
+9. hw9_file_json.py --
+ ДЗ 9. Створення індексу
