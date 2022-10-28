@@ -64,6 +64,38 @@ if __name__ == '__main__':
     b0 = get_length_sides('b: ')
     c0 = get_length_sides('c: ')
     tr = Triangle(a0, b0, c0)
+
+    def type_triangle():
+        """
+        :return: тип трикутника за кутами
+        """
+        if tr.exists():
+            if tr.a**2 == tr.b**2 + tr.c**2 or tr.b**2 == tr.a**2 + tr.c**2 or tr.c**2 == tr.b**2 + tr.a**2:
+                return 'прямокутний'
+            elif tr.a**2 < tr.b**2 + tr.c**2 and tr.b**2 < tr.a**2 + tr.c**2 and tr.c**2 < tr.b**2 + tr.a**2:
+                return 'гострокутний'
+            else:
+                return 'тупокутний'
+        else:
+            return 'Трикутника не існує'
+
+    def type_triangle_side():
+        """
+        :return: тип трикутника за сторонами
+        """
+        if tr.exists():
+            if tr.a == tr.b == tr.c:
+                return 'рівносторонній'
+            elif (tr.a == tr.b and tr.c!=tr.a) or (tr.a == tr.c and tr.c!=tr.b) or (tr.c == tr.b and tr.c!=tr.a):
+                return 'рівнобедрений'
+            else:
+                return 'різносторонній'
+        else:
+            return 'Трикутника не існує'
+
+
     print(f'Чи існує трикутник? {tr.exists()}')
+    print(f'Тип трикутника за сторонами: {type_triangle_side()}')
+    print(f'Тип трикутника за кутом: {type_triangle()}')
     print(f'Периметр трикутника: {tr.triangle_perimeter()}')
     print(f'Площа трикутника: {tr.triangle_square()}')
