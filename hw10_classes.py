@@ -41,25 +41,24 @@ class Triangle:
             return 0
 
 
-def get_length_sides(name: str) -> float:
-    """
-    :param name: назва сторони трикутника
-    :return: довжину сторони трикутника
-    """
-    while True:
-        side = input(f'{name}')
-        try:
-            side = float(side)
-        except ValueError:
-            print('Введіть, будь ласка, число!')
-            continue
-        if side > 0:
-            return side
-        else:
-            print('Введіть, будь ласка, додатнє число!')
-
-
 if __name__ == '__main__':
+
+    def get_length_sides(name: str) -> float:
+        """
+        :param name: назва сторони трикутника
+        :return: довжину сторони трикутника
+        """
+        while True:
+            side = input(f'{name}')
+            try:
+                side = float(side)
+            except ValueError:
+                print('Введіть, будь ласка, число!')
+                continue
+            if side > 0:
+                return side
+            else:
+                print('Введіть, будь ласка, додатнє число!')
 
     a0 = get_length_sides('a: ')
     b0 = get_length_sides('b: ')
