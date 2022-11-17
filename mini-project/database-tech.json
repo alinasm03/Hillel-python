@@ -1,0 +1,197 @@
+[
+	{
+		"category": "Ноутбуки",
+		"name": "LENOVO IdePad 115ADA7 Cloud Grey (82R10087RA)",
+		"price": "14000",
+		"quantity": "15",
+		"additional_fields": {
+			"Brand": "Lenovo",
+			"Diagonal": "15,6",
+			"Weight, kg": "1,6",
+			"Processor cores": "2",
+			"Operative memory, GB": "4"
+		}
+	},
+	{
+		"category": "Ноутбуки",
+		"name": "DELL Latitude 5420 Titan Gray (N005L542014UA_UBU)",
+		"price": "35000",
+		"quantity": "10",
+		"additional_fields": {
+			"Brand": "Dell",
+			"Diagonal": "14",
+			"Weight, kg": "1,37",
+			"Processor cores": "4",
+			"Operative memory, GB": "8"
+		}
+	},
+	{
+		"category": "Ноутбуки",
+		"name": "DELL Vostro 3515 Carbon Black (N6262VN3515UA_UBU)",
+		"price": "23000",
+		"quantity": "13",
+		"additional_fields": {
+			"Brand": "Dell",
+			"Diagonal": "15,6",
+			"Weight, kg": "1,7",
+			"Processor cores": "2",
+			"Operative memory, GB": "8"
+		}
+	},
+	{
+		"category": "Ноутбуки",
+		"name": "HP 255 G8 Dark Ash Silver (3A5Y5EA)",
+		"price": "16000",
+		"quantity": "6",
+		"additional_fields": {
+			"Brand": "HP",
+			"Diagonal": "15,6",
+			"Weight, kg": "1,74",
+			"Processor cores": "2",
+			"Operative memory, GB": "4"
+		}
+	},
+	{
+		"category": "Ноутбуки",
+		"name": "ASUS Vivobook 14 M1402IA-EB035W Icelight Silver (90NB0Y03-M006U0)",
+		"price": "26000",
+		"quantity": "8",
+		"additional_fields": {
+			"Brand": "Asus",
+			"Diagonal": "14",
+			"Weight, kg": "1,5",
+			"Processor cores": "6",
+			"Operative memory, GB": "8"
+		}
+	},
+	{
+		"category": "Навушники",
+		"name": "JBL TUNE 130 NC TWS White (JBLT130NCTWSWHT)",
+		"price": "2800",
+		"quantity": "2",
+		"additional_fields": {
+			"Brand": "JBL",
+			"Bluetooth": "False",
+			"Headphone type": "Повністю бездротові",
+			"Vacuum": "True",
+			"Battery, hours": "8"
+		}
+	},
+	{
+		"category": "Навушники",
+		"name": "JBL C50HI White (JBLC50HIWHT)",
+		"price": "300",
+		"quantity": "12",
+		"additional_fields": {
+			"Brand": "JBL",
+			"Bluetooth": "False",
+			"Headphone type": "Дротові",
+			"Vacuum": "True",
+			"Battery, hours": "0"
+		}
+	},
+	{
+		"category": "Навушники",
+		"name": "APPLE AirPods with Charging Case (MV7N2RU/A)",
+		"price": "7000",
+		"quantity": "5",
+		"additional_fields": {
+			"Brand": "Apple",
+			"Bluetooth": "True",
+			"Headphone type": "Повністю бездротові",
+			"Vacuum": "False",
+			"Battery, hours": "18"
+		}
+	},
+	{
+		"category": "Навушники",
+		"name": "SAMSUNG Galaxy Buds Pro Violet (SM-R190NZVASEK)",
+		"price": "6000",
+		"quantity": "6",
+		"additional_fields": {
+			"Brand": "Samsung",
+			"Bluetooth": "True",
+			"Headphone type": "Повністю бездротові",
+			"Vacuum": "True",
+			"Battery, hours": "18"
+		}
+	},
+	{
+		"category": "Навушники",
+		"name": "SAMSUNG EO-IC100 White (EO-IC100BWEGRU)",
+		"price": "3800",
+		"quantity": "20",
+		"additional_fields": {
+			"Brand": "Samsung",
+			"Bluetooth": "False",
+			"Headphone type": "Дротові",
+			"Vacuum": "True",
+			"Battery, hours": "0"
+		}
+	},
+	{
+		"category": "Смарт-годинники",
+		"name": "APPLE Watch Series 7 45mm Midnight (MKN53)",
+		"price": "17300",
+		"quantity": "3",
+		"additional_fields": {
+			"Brand": "Apple",
+			"Body size, mm": "45",
+			"Sim support": "False",
+			"GPS": "True",
+			"Battery, hours": "15"
+		}
+	},
+	{
+		"category": "Смарт-годинники",
+		"name": "APPLE Watch SE 40mm Silver (MKNY3UL/A)",
+		"price": "11600",
+		"quantity": "5",
+		"additional_fields": {
+			"Brand": "Apple",
+			"Body size, mm": "40",
+			"Sim support": "False",
+			"GPS": "True",
+			"Battery, hours": "18"
+		}
+	},
+	{
+		"category": "Смарт-годинники",
+		"name": "SAMSUNG Galaxy Watch 4 40mm Black (SM-R860NZKASEK)",
+		"price": "8500",
+		"quantity": "7",
+		"additional_fields": {
+			"Brand": "Samsung",
+			"Body size, mm": "40",
+			"Sim support": "True",
+			"GPS": "True",
+			"Battery, hours": "40"
+		}
+	},
+	{
+		"category": "Смарт-годинники",
+		"name": "SAMSUNG Galaxy Watch 5 Pro LTE Black (SM-R925FZKASEK)",
+		"price": "20000",
+		"quantity": "4",
+		"additional_fields": {
+			"Brand": "Samsung",
+			"Body size, mm": "45",
+			"Sim support": "False",
+			"GPS": "True",
+			"Battery, hours": "42"
+		}
+	},
+	{
+		"category": "Смарт-годинники",
+		"name": "APPLE Watch Series 1 40mm White (MKN02)",
+		"price": "2200",
+		"quantity": "2",
+		"additional_fields": {
+			"Brand": "Apple",
+			"Body size, mm": "40",
+			"Sim support": "False",
+			"GPS": "False",
+			"Battery, hours": "13"
+		}
+	}
+]
